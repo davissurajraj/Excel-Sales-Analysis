@@ -9,11 +9,13 @@
   
    **3.** Observe Sales on Division basis _[division level report](https://github.com/davissurajraj/Excel-Sales-Analysis/blob/9c29910d28e1179c01c110655b1dcb85081dd30a/Division%20Level%20Report.pdf)_
 
-  **4.** New Products Performance in 2021 _[new products 2021](https://github.com/davissurajraj/Excel-Sales-Analysis/blob/94eef51f8b8b068dfe63461eab31bd2c179a2746/New%20Products%20-%202021.pdf)_
+  **4.** Analyse New Products Performance in 2021 _[new products 2021](https://github.com/davissurajraj/Excel-Sales-Analysis/blob/94eef51f8b8b068dfe63461eab31bd2c179a2746/New%20Products%20-%202021.pdf)_
 
   **5.** Analyse the sales of the top 10 products 2020-21 _[top 10 products](https://github.com/davissurajraj/Excel-Sales-Analysis/blob/ac4e36338843308daf1a886379e30a61d207eb08/Top%2010%20Products.pdf)_
 
   **6.** Top 5 countries generating the most business _[top 5 countries](https://github.com/davissurajraj/Excel-Sales-Analysis/blob/84fd0251525aaa02a022046a1a144edee2092996/Top%205%20Countries%20-%202021.pdf)_
+
+  **7.** Figure out the best 5 and the worst 5 performing products _[top 5 and bottom 5](https://github.com/davissurajraj/Excel-Sales-Analysis/blob/3e45f2491335b9b01f6d415aafd72d2f8473342d/Top%205%20and%20Bottom%205.pdf)_
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
