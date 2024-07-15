@@ -9,7 +9,7 @@
   
    **3.** Observe Sales on Division basis _[division level report](https://github.com/davissurajraj/Excel-Sales-Analysis/blob/9c29910d28e1179c01c110655b1dcb85081dd30a/Division%20Level%20Report.pdf)_
 
-  **4.** 
+  **4.** New Products Performance in 2021 _[new products 2021](https://github.com/davissurajraj/Excel-Sales-Analysis/blob/94eef51f8b8b068dfe63461eab31bd2c179a2746/New%20Products%20-%202021.pdf)_
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
